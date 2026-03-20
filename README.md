@@ -7,16 +7,6 @@ proof of convergence.
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Tech Stack](#tech-stack)
-- [Pipeline](#pipeline)
-- [Results](#results)
-- [Installation](#installation)
-
----
-
 ## Overview
 
 This project analyzes raw Amazon reviews of magazine subscriptions to predict 
