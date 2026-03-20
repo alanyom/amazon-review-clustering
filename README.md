@@ -124,6 +124,3 @@ Proof of Convergence
   star ratings, validating the clustering approach
 - Label propagation converged consistently, with switch counts trending 
   toward 0 as iterations increased
-## License
-
-MIT
