@@ -12,7 +12,7 @@ proof of convergence.
 This project analyzes raw Amazon reviews of magazine subscriptions to predict 
 customer renewal likelihood using unsupervised learning techniques. Since no 
 ground truth labels exist, K-Means clustering is used to group customers based 
-on review features, sentiment scores, and rating data.
+on review features, sentiment scores, and rating data. 
 
 Key highlights:
 - **71,497** Amazon magazine subscription reviews processed
